@@ -2,7 +2,7 @@
 Español marabino
 ================
 
-Es repositorio es una compilación del Español marabino (Maracaibero/Maracucho/Zuliano) de 
+Es repositorio es una compilación del Español marabino (Maracaibero/Maracucho/Zuliano) el cual incluye, lo siguiente: 
 
 - Expresiones.
 
