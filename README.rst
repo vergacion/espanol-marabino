@@ -24,3 +24,4 @@ Referencias
 - https://matadornetwork.com/es/exageraciones-que-demuestran-la-creatividad-cotidiana-de-los-maracuchos/
 - https://steemit.com/spanish/@adrian11/refranes-maracuchos-aqui-les-traigo-un-poco-de-cultura-de-nuestra-tierra-de-solamada-maracaibo-venezuela
 - http://lapesteloca.blogspot.com/2013/05/espanol-marabino-o-diccionario-de.html
+- https://www.tubabel.com/definicion/75145-sebillo
